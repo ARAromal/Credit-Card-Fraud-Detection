@@ -106,4 +106,4 @@ This model is recommended as an effective solution for detecting credit card fra
 
 Your Name - araromal2002@gmail.com
 
-Project Link: [https://github.com/ARAromal/Card-Fraud-Detection](https://www.google.com/search?q=https://github.com/ARAromal/Card-Fraud-Detection)
+Project Link: [https://github.com/ARAromal/Credit-Card-Fraud-Detection](https://www.google.com/search?q=https://github.com/ARAromal/Credit-Card-Fraud-Detection)
