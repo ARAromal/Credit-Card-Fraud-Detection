@@ -101,9 +101,3 @@ This model is recommended as an effective solution for detecting credit card fra
   * The dataset was collected and analyzed during a research collaboration of Worldline and the Machine Learning Group (MLG) of ULB (Université Libre de Bruxelles) on big data mining and fraud detection.
 
 -----
-
-### Contact
-
-Your Name - araromal2002@gmail.com
-
-Project Link: [https://github.com/ARAromal/Credit-Card-Fraud-Detection](https://www.google.com/search?q=https://github.com/ARAromal/Credit-Card-Fraud-Detection)
